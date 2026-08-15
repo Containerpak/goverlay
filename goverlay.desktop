@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Goverlay
+Comment=Configure MangoHud, vkBasalt and related gaming overlays.
+Exec=goverlay %U
+Icon=goverlay
+Terminal=false
+Categories=Utility;Game;
+
