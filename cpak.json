@@ -3,7 +3,7 @@
   "manifest_version": "2.0",
   "name": "Goverlay",
   "description": "Configure MangoHud, vkBasalt and related gaming overlays.",
-  "version": "1.8.11",
+  "version": "1.9.0",
   "image": "ghcr.io/containerpak/goverlay:main",
   "binaries": [
     "/usr/bin/goverlay"

@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:f84959531e9d1815ba1211e7a94ec5e544d8ff32584ca45f25e16a6ccb0ad665 https://github.com/benjamimgois/goverlay/releases/download/1.8.11/goverlay-1.8.11-x86_64.AppImage /tmp/app.AppImage
+ADD --checksum=sha256:93f39216ef6e5c34ca30e47746fa5ad22d7c9c9c6867ce8cc4ba0cf508cfdd80 https://github.com/benjamimgois/goverlay/releases/download/1.9.0/goverlay-1.9.0-x86_64.AppImage /tmp/app.AppImage
 
 RUN chmod 0755 /tmp/app.AppImage && \
     cd /tmp && \
