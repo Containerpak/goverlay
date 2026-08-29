@@ -4,7 +4,7 @@
   "name": "Goverlay",
   "description": "Configure MangoHud, vkBasalt and related gaming overlays.",
   "version": "1.9.0",
-  "image": "ghcr.io/containerpak/goverlay@sha256:8df2281606fd8a4501554f88581920b749f9d339f288718d87f889f7dc70f736",
+  "image": "ghcr.io/containerpak/goverlay@sha256:ef7858ccf616e1b33e36f8baa6da248b8320bbc6e161f91a727ebdf348c82434",
   "binaries": [
     "/usr/bin/goverlay"
   ],
